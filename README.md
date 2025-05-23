@@ -1,6 +1,3 @@
-# Udacity Deep Reinforcement Learning Nano Degree - Continuous Control
-This is the submission for the Continuous Control project in Udacity Deep Reinforcement Learning Nano Degree.
-
 # The Environment
 ![](Resource/reacher.gif)
 
